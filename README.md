@@ -1,13 +1,13 @@
-<h1 align="center">Oi👋, sou o João!</h1>
-<h3 align="center">Gosto de conversar com dados</h3>
+<h1 align="center">Olá, eu sou o João! 👋</h1>
+<h3 align="center">Esse é meu repositório, e nele falarei sobre ferramentas e metodologias de análise de dados</h3>
 
 - 🌱 Atualmente estou aprendendo **Python, databricks e ETL**
 
 - 💬 Me pergunte sobre **Excel, SQL e DataViz**
 
-- 📫 Você me acha **contatojoaopereira1@gmail.com**
+- 📫 Você me acha no **contatojoaopereira1@gmail.com**
 
-- 📄 Minha experiências estão no [https://www.linkedin.com/in/joao-nogueiraa/](https://www.linkedin.com/in/joao-nogueiraa/)
+- 📄 Minhas experiências estão no [https://www.linkedin.com/in/joao-nogueiraa/](https://www.linkedin.com/in/joao-nogueiraa/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

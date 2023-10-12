@@ -5,7 +5,7 @@
 
 - 💬 Me pergunte sobre **Excel, SQL e DataViz**
 
-- 📫 Você me acha no **contatojoaopereira1@gmail.com**
+- 📫 Pode entrar em contato através do **contatojoaopereira1@gmail.com**
 
 - 📄 Minhas experiências estão no [https://www.linkedin.com/in/joao-nogueiraa/](https://www.linkedin.com/in/joao-nogueiraa/)
 

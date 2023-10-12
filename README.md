@@ -1,5 +1,5 @@
 <h1 align="center">Olá, eu sou o João! 👋</h1>
-<h3 align="center">Esse é meu repositório, e nele falarei sobre ferramentas e metodologias de análise de dados</h3>
+<h3 align="center">Neste repositório falarei sobre ferramentas e metodologias de análise de dados</h3>
 
 - 🌱 Atualmente estou aprendendo **Python, databricks e ETL**
 
